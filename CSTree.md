@@ -8,6 +8,7 @@
     - map
     - tools
         - collections
+- hashmap vs concurrenthashmap
 - IO
     - bio
     - aio    
@@ -20,6 +21,9 @@
 - proxy
     - jdk proxy
     - cglib
+### java 8+
+- Lambda basics
+
 ### concurrent
 - 多线程
     - runnable vs callable
