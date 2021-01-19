@@ -9,6 +9,7 @@
     - tools
         - collections
 - hashmap vs concurrenthashmap
+- socket
 - IO
     - bio
     - aio    
@@ -59,6 +60,7 @@
 ## distribution 
 ### redis
 ### rabbitmq
+### hystrix
 
 ## web service
 ### SOAP
@@ -102,7 +104,9 @@
         4. docker commit -m="comments" -a="author"  containerid newimagename
     5. 构建镜像
 
-
+## tomcat 
 ## k8s
-### git 
-### uml
+## git 
+## uml
+## mvn
+## groovy
